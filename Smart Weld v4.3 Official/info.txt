@@ -1,0 +1,45 @@
+"AddonInfo"
+{
+	"name" "Smart Weld v4.3 Official"
+	"author_name" "author"
+	"info" "Now with Minimum and Maximum Radius! (Thanks Spero78!)
+Tool Originally made by Dunk and Re-built from the ground up by Hans Leid 
+
+With this tool all you have to do is select every prop once and they all will be welded to each other so make one sturdy good weld. You can also have it auto-select near by props or have all the props welded to on item. 
+
+You can find a mirror link to this tool here: http://www.mediafire.com/download/1n6z163rfpl6a59/Smart_Weld_4.3.zip
+
+If you would rather use my old version 3.5 it can be found here (may be broken idk): http://www.mediafire.com/download.php?x4qy4o3b06u3k3v 
+
+If the YouTube video doesn't work try here: http://www.youtube.com/watch?v=ShW4c0LSJ1M 
+
+The original tool can be found here: http://www.garrysmod.org/downloads/?a=view&id=18508
+
+Helpful Tip: You need either "Weld to Each Other" or "Weld to World" or both for the tool to work. I thought this was common sense but i guess not. This tool conflicts with any MadCow or mad_base guns! If I get asked enough I may fix this.
+
+After originally posting this December 25, 2012 I thought it was missing something so that is why for my 7,000 subscriber I got this tool completely re-made and better! I regret removing the old one though but hopefully you will find that this version is much better!
+
+The second YouTube video was Dunk's original video showing the addon back in 2007! Thought it was cool to show you guys and it sure beats my video :)
+
+Please Rate! 
+
+---Change Log--- 
+What's new in Version 4? 
+The Biggest update Yet! 
+Hans Leid Re-Coded the tool from the ground up making it faster! 
+Added a highlight color changer to the tool! 
+Fixed No-Collide Bug. 
+
+What's new in Version 4.1?
+Fixed the tool to work again after the update.
+Also added a feature to tell you if anything failed to weld!
+
+What's new in Version 4.2?
+Added Maximum and Minimum Radius feature! (check top for YouTube video)
+Also reduced lag. (Both were done by Spero78)
+
+What's new in Version 4.3?
+Changed the way the notifications appear to look nicer!
+
+Since this was completely re-made there may be bugs with it. PLEASE report all bugs in the comments or discussion!"
+}

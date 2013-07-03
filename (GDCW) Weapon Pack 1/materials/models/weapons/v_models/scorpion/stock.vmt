@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Weapons/V_Models/scorpion/stock_unfolded"
+	"$bumpmap" 	"models/Weapons/V_Models/scorpion/stock_Normal"
+ 	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint"	"[0.1 0.1 0.1]"
+	"$normalmapalphaphongmask" 1
+	"$halflambert" 	"1"
+ 	"$phong" "1"
+	"$phongtint"	"[0.7 0.9 1]"
+	"$phongexponent" "16"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$phongalbedotint" "1"
+}

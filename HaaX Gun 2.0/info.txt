@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "HaaX Gun 2.0"
+	"author_name" "author"
+	"info" "Located at: Weapons ---> other.
+Left mouse (Primary) to fire a Computer! 
+Right mouse (Secondary) to Rapid-fire a Computer!
+
+If you have any suggestions on what to add next, please leave a comment below!
+
+Known issues:
+None."
+}

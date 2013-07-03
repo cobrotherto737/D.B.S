@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "BF Hud"
+	"author_name" "author"
+	"info" "Hi everyone, i wrote it on 8 hours...Enjoy
+
+Use the command: "gzg_hudpos" for change the height of the hud (good when you want it upside of your screen)
+If you don't like the vignette, use "gzg_vignette 0" for disable it
+
+You can disable it with cl_drawhud
+Eyup, when i've started the hud, i had in mind Battlefield 3
+
+
+Eyup"
+}
