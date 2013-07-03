@@ -1,8 +1,0 @@
-VertexLitGeneric
-{
-	"$basetexture" "models\weapons\v_models\lamawan_lr\stock"
-	"$bumpmap" "models\weapons\v_models\lamawan_lr\stock norm"
-    	"$envmap" "env_cubemap"
-    	"$normalmapalphaenvmapmask" 1
-    	
-}

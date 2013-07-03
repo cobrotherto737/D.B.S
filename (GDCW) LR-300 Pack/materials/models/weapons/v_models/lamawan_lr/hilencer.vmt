@@ -1,7 +1,0 @@
-VertexLitGeneric
-{"$no_draw" 1
-	"$baseTexture" "models\weapons\v_models\lamawan_lr\silencer"
-	"$bumpmap" "models\weapons\v_models\lamawan_lr\silencer norm"
-    	"$envmap" "env_cubemap"
-    	"$normalmapalphaenvmapmask" 1
-}

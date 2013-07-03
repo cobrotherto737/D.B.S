@@ -1,6 +1,0 @@
-"AddonInfo"
-{
-	"name" "(GDCW) MP5k"
-	"author_name" "author"
-	"info" "Too lazy to fill this out now. "
-}

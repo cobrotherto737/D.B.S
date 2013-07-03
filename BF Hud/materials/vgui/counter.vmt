@@ -1,9 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture"		"vgui/counter"
-	"$vertexcolor" 		1
-	"$vertexalpha" 		1
-	"$nolod" 			1
-	"$additive" 		1
-	"$nocull"			1
-}
