@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "entities/gdcw_sakotrg"
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+	"$nolod" 			1
+}

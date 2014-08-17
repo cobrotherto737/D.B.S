@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{              "$no_draw" 1
+	"$baseTexture" "models\weapons\v_models\watch\TS_belt_difffuse"
+	"$bumpmap" "models\weapons\v_models\watch\TS_belt_normal"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 8 6]"
+
+}
+

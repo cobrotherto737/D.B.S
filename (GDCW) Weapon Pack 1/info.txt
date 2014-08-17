@@ -1,0 +1,22 @@
+"AddonInfo"
+{
+	"name" "(GDCW) Weapon Pack 1"
+	"author_name" "author"
+	"info" "This pack includes:
+AK-47
+VZ.61 Skorpion
+Colt Python
+Sako TRG-42
+
+[b]Video:[/b] [url=http://www.youtube.com/watch?v=Qo8MluCV34c]http://www.youtube.com/watch?v=Qo8MluCV34c[/url] (song is [b]Uppermost - Imagine Reality[/b])
+
+[b]Credits:[/b] Johan Santana, Thanez, Rosa Jonas, FxDarkloki, Mr. Brightside, Teh Snake, Rod, Nosehair, SaxonSwine, vunsunta, Deku Scrub, vagrant, Dblaz11, Crash, Aggressive Napkin, Vunsunta, Darkelfa, Pete, el maestro de graffiti, saxonswine, Rod39, vagrant, sick420, Darkstorn, Vunsunta, dreadus, TheLama, SilentAssassin12, Zeej, CATS, Rangenade, NightmareMutant, Cas., Generic Default
+
+If I forgot someone please let me know.
+
+[b]Notes:[/b]
+You might need CS:S for this to work 
+Thses are sweps, the gloves, maps, and hud are not included. If you want them you will have to get them yourself. 
+The screenshots are using post processing effects.
+The Sako TRG-42 is using custom bullet physics to make sniping more challenging."
+}

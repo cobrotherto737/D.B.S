@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\Thanez\AK47\Receiver"
+	"$bumpmap" 	"models\weapons\v_models\Thanez\AK47\Receiver_Normal"
+ 	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint"	"[0.01 0.01 0.01]"
+ 	"$phong" "1"
+	"$phongtint"	"[0.7 0.9 1]"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.2 .4 1]"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+}
+

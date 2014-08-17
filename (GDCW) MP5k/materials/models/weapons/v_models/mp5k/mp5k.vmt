@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+	$basetexture "models\weapons\v_models\mp5k\mp5k"
+	$bumpmap "models\weapons\v_models\mp5k\mp5k_normal"
+	$phong 1
+	$phongboost 1
+	$phongexponent 10
+	$phongfresnelranges "[1 1 1]"
+}

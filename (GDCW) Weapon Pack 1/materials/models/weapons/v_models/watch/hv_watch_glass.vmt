@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{              "$no_draw" 1
+	"$baseTexture" "models\weapons\v_models\watch\TS_watch_glass"
+	"$additive" "1"
+	"$nocull" "1"
+
+}
+
